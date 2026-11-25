@@ -1,6 +1,6 @@
 {
-    "name": "assafwa",
-    "short_name": "assafwa",
+    "name": "assafwa_etudiant",
+    "short_name": "assafwa_etudiant",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
